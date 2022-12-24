@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/martians-test/static/css/main.7a2f1b08.css",
+    "main.js": "/martians-test/static/js/main.030b4e6b.js",
+    "index.html": "/martians-test/index.html",
+    "main.7a2f1b08.css.map": "/martians-test/static/css/main.7a2f1b08.css.map",
+    "main.030b4e6b.js.map": "/martians-test/static/js/main.030b4e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2f1b08.css",
+    "static/js/main.030b4e6b.js"
+  ]
+}
